@@ -1,17 +1,14 @@
 import { useState } from "react";
 import "./App.css";
+import Router from "./Routes";
+import Nav from "./components/Nav";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <div className="App">
       <h1>My App</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-      </div>
+      <Nav />
+      <Router />
     </div>
   );
 }
