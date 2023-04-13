@@ -6,7 +6,6 @@ import Nav from "./components/Nav";
 function App() {
   return (
     <div className="App">
-      <h1>My App</h1>
       <Nav />
       <Router />
     </div>

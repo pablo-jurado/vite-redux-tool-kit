@@ -5,8 +5,10 @@ export default function About() {
     <div>
       <h2>About</h2>
       <p>
-        About ipsum dolor sit amet cons sunt rerum ab, cupiditate accusantium
-        inventore accusamus, dicta ex obcaecati minima?
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorum
+        debitis nostrum neque dolor qui corrupti labore similique nobis? Maxime
+        aliquam tempore quidem. Praesentium voluptas dignissimos sunt est
+        suscipit excepturi. Laudantium?
       </p>
     </div>
   );
